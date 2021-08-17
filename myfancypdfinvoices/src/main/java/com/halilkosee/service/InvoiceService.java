@@ -1,4 +1,6 @@
-package com.halilkosee;
+package com.halilkosee.service;
+
+import com.halilkosee.model.Invoice;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;

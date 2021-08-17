@@ -1,4 +1,4 @@
-package com.halilkosee;
+package com.halilkosee.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
