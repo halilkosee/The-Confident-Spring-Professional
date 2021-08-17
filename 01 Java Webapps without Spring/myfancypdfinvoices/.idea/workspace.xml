@@ -5,9 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51834aec-5da7-45aa-beba-8043ea804c1b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/context/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/context/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/service/InvoiceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/service/InvoiceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/dependency-reduced-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/ApplicationLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/context/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/model/Invoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/service/InvoiceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/web/MyFancyPdfInvoicesServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/ApplicationLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/context/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/model/Invoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/service/InvoiceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/web/MyFancyPdfInvoicesServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/myfancypdfinvoices-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/original-myfancypdfinvoices-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +76,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Application.ApplicationLauncher (1)">
     <configuration name="ApplicationLauncher (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -96,7 +122,9 @@
       <updated>1629156185468</updated>
       <workItem from="1629156186655" duration="9735000" />
       <workItem from="1629190713215" duration="3691000" />
-      <workItem from="1629194670466" duration="322000" />
+      <workItem from="1629194670466" duration="95000" />
+      <workItem from="1629195053732" duration="201000" />
+      <workItem from="1629195537092" duration="27000" />
     </task>
     <servers />
   </component>
@@ -117,5 +145,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myfancypdfinvoices$ApplicationLauncher__1_.ic" NAME="ApplicationLauncher (1) Coverage Results" MODIFIED="1629195205024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.halilkose.myfancypdfinvoices.*</FILTER>
+    </SUITE>
   </component>
 </project>
