@@ -1,7 +1,7 @@
 # ***[The-Confident-Spring-Professional]()***
   **Around the Spring Ecosystem - Spring Framework, Spring MVC, Spring & Databases and Spring Boot tutorial**
 
-![java_logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmuhammeddincer.com%2Fjava-get-ve-set%2F&psig=AOvVaw2SjCfGrSW7mX1mumtwrU7u&ust=1629304272804000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCODoqci9uPICFQAAAAAdAAAAABAJ)
+![java_logo](https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/img/1.png)
 
 
 
