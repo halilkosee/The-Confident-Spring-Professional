@@ -1,7 +1,13 @@
 # ***[The-Confident-Spring-Professional]()***
   **Around the Spring Ecosystem - Spring Framework, Spring MVC, Spring & Databases and Spring Boot tutorial**
 
-![java_logo](https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/img/1.png)
+
+<p float="left">
+  <img src="https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/img/1.png" width="100" />
+  <img src="https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/img/2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+![java_logo]()
 
 
 
