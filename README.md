@@ -3,12 +3,10 @@
 
 
 <p float="left">
-  <img src="https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/img/1.png" width="100" />
-  <img src="https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/img/2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/img/1.png" width="100" height=100 />
+  <img src="https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/img/2.png" width="100" height=100 /> 
+  <img src="https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/img/4.png" width="100" height=100 />
 </p>
-![java_logo]()
-
 
 
 ## 00 [Introduction](https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/00%20Introduction/readme.md)
