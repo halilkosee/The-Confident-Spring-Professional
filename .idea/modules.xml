@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/The Confident Spring Professional.iml" filepath="$PROJECT_DIR$/.idea/The Confident Spring Professional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 Java Webapps without Spring/mybank/mybank.iml" filepath="$PROJECT_DIR$/01 Java Webapps without Spring/mybank/mybank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 Java Webapps without Spring/myfancypdfinvoices/myfancypdfinvoices.iml" filepath="$PROJECT_DIR$/01 Java Webapps without Spring/myfancypdfinvoices/myfancypdfinvoices.iml" />
+    </modules>
+  </component>
+</project>
