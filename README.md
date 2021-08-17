@@ -7,9 +7,9 @@
 * Prerequisites
 
 ## 01 [Java Webapps without Spring](https://github.com/halilkosee/The-Confident-Spring-Professional/tree/main/01%20Java%20Webapps%20without%20Spring/myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices)
-###* Intro
-###* Project Setup
-###* Rendering HTML Pages
+* ### Intro
+* Project Setup
+* Rendering HTML Pages
 * JSON Endpoints
 * Poor Man’s Dependency Injection
 * Outro
