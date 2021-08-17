@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51834aec-5da7-45aa-beba-8043ea804c1b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/dependency-reduced-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/ApplicationLauncher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/context/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/model/Invoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/service/InvoiceService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/src/main/java/com/halilkose/myfancypdfinvoices/web/MyFancyPdfInvoicesServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/ApplicationLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/context/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/model/Invoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/service/InvoiceService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/classes/com/halilkose/myfancypdfinvoices/web/MyFancyPdfInvoicesServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/myfancypdfinvoices-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../myfancypdfinvoices/target/original-myfancypdfinvoices-1.0-SNAPSHOT.jar" beforeDir="false" />
-    </list>
+    <list default="true" id="51834aec-5da7-45aa-beba-8043ea804c1b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,6 +83,10 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\halil\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="51834aec-5da7-45aa-beba-8043ea804c1b" name="Changes" comment="" />
@@ -124,7 +98,7 @@
       <workItem from="1629190713215" duration="3691000" />
       <workItem from="1629194670466" duration="95000" />
       <workItem from="1629195053732" duration="201000" />
-      <workItem from="1629195537092" duration="27000" />
+      <workItem from="1629195537092" duration="1467000" />
     </task>
     <servers />
   </component>
