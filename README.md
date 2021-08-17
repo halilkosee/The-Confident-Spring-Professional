@@ -1,7 +1,7 @@
 # ***The-Confident-Spring-Professional***
   **Around the Spring Ecosystem - Spring Framework, Spring MVC, Spring & Databases and Spring Boot tutorial**
 
-## [00 Introduction] (https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/00%20Introduction/readme.md)
+## [00 Introduction](https://github.com/halilkosee/The-Confident-Spring-Professional/blob/main/00%20Introduction/readme.md)
 * What you are going to learn
 * How do you have to tackle this course
 * Prerequisites
