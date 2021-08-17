@@ -1,4 +1,5 @@
-com\halilkosee\Invoice.class
+com\halilkosee\web\MyFancyPdfInvoicesServlet.class
 com\halilkosee\ApplicationLauncher.class
-com\halilkosee\MyFancyPdfInvoicesServlet.class
-com\halilkosee\InvoiceService.class
+com\halilkosee\model\Invoice.class
+com\halilkosee\context\Application.class
+com\halilkosee\service\InvoiceService.class
