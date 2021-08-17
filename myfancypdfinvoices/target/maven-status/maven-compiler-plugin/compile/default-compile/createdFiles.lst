@@ -1,2 +1,4 @@
+com\halilkosee\Invoice.class
 com\halilkosee\ApplicationLauncher.class
-com\halilkosee\MyFirstServlet.class
+com\halilkosee\MyFancyPdfInvoicesServlet.class
+com\halilkosee\InvoiceService.class
