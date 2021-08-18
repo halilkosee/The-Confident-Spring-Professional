@@ -1,5 +1,7 @@
 package com.halilkose.myfancypdfinvoices.web;
 
+
+
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.halilkose.myfancypdfinvoices.context.MyFancyPdfInvoicesApplicationConfiguration;
 import com.halilkose.myfancypdfinvoices.model.Invoice;
@@ -28,10 +30,13 @@ public class MyFancyPdfInvoicesServlet extends HttpServlet {
         this.objectMapper = ctx.getBean(ObjectMapper.class);
         this.invoiceService = ctx.getBean(InvoiceService.class);
 
-        /*System.out.println(ctx.getBean(UserService.class));
         System.out.println(ctx.getBean(UserService.class));
         System.out.println(ctx.getBean(UserService.class));
-         */
+        System.out.println(ctx.getBean(UserService.class));
+
+        System.out.println(ctx.getBean(InvoiceService.class).getUserService());
+        System.out.println(ctx.getBean(InvoiceService.class).getUserService());
+        System.out.println(ctx.getBean(InvoiceService.class).getUserService());
     }
 
     @Override
