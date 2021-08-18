@@ -2,10 +2,12 @@ package com.halilkose.myfancypdfinvoices.service;
 
 import com.halilkose.myfancypdfinvoices.model.Invoice;
 import com.halilkose.myfancypdfinvoices.model.User;
+import org.springframework.stereotype.Component;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
+@Component
 public class InvoiceService {
 
     private final UserService userService;
@@ -31,9 +33,5 @@ public class InvoiceService {
         Invoice invoice = new Invoice(userId, amount, "http://www.africau.edu/images/default/sample.pdf");
         invoices.add(invoice);
         return invoice;
-    }
-
-    public UserService getUserService() {
-        return userService;
     }
 }
