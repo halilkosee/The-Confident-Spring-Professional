@@ -1,6 +1,5 @@
 package com.halilkose.myfancypdfinvoices.service;
 
-import com.halilkose.myfancypdfinvoices.context.Application;
 import com.halilkose.myfancypdfinvoices.model.Invoice;
 import com.halilkose.myfancypdfinvoices.model.User;
 
