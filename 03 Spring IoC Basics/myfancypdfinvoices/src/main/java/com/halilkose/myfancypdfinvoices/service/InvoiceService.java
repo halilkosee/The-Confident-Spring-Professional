@@ -2,6 +2,7 @@ package com.halilkose.myfancypdfinvoices.service;
 
 import com.halilkose.myfancypdfinvoices.model.Invoice;
 import com.halilkose.myfancypdfinvoices.model.User;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
@@ -10,9 +11,10 @@ import java.util.concurrent.CopyOnWriteArrayList;
 @Component
 public class InvoiceService {
 
-    private final UserService userService;
-
     private List<Invoice> invoices = new CopyOnWriteArrayList<>();
+
+
+    private final UserService userService;
 
     public InvoiceService(UserService userService) {
         this.userService = userService;
@@ -34,4 +36,5 @@ public class InvoiceService {
         invoices.add(invoice);
         return invoice;
     }
+
 }
