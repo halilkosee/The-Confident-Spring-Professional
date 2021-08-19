@@ -1,4 +1,5 @@
 com\halilkose\myfancypdfinvoices\web\MyFancyPdfInvoicesServlet.class
+com\halilkose\myfancypdfinvoices\service\DummyInvoiceServiceLoader.class
 com\halilkose\myfancypdfinvoices\service\InvoiceService.class
 com\halilkose\myfancypdfinvoices\context\MyFancyPdfInvoicesApplicationConfiguration.class
 com\halilkose\myfancypdfinvoices\model\Invoice.class
