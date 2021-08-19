@@ -27,6 +27,17 @@
 * Interview: Siva Prasad
 
 ## 02 Spring IoC Basics
+* Intro
+* Maven Dependencies
+* ApplicationContext & @Configuration
+* @Beans and @Scopes
+* @Component and @ComponentScan
+* @Autowired, Constructor, Field and Setter Injection
+* @Bean lifecycles
+* Environment: Resources, Properties & Profiles
+* Outro
+* [Source Code & Exercises](https://github.com/halilkosee/The-Confident-Spring-Professional/tree/main/01%20Java%20Webapps%20without%20Spring/mybank)
+* Interview: Michael Simons
 ## 03 Spring WebMVC: Rest Services
 ## 04 Spring WebMVC: HTML Pages
 ## 05 Spring Database Access
