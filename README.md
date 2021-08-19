@@ -26,7 +26,7 @@
 * [Source Code & Exercises](https://github.com/halilkosee/The-Confident-Spring-Professional/tree/main/01%20Java%20Webapps%20without%20Spring/mybank)
 * Interview: Siva Prasad
 
-## 02 Spring IoC Basics
+## 02 [Spring IoC Basics](https://github.com/halilkosee/The-Confident-Spring-Professional/tree/main/02%20Spring%20IoC%20Basics/myfancypdfinvoices)
 * Intro
 * Maven Dependencies
 * ApplicationContext & @Configuration
@@ -36,7 +36,7 @@
 * @Bean lifecycles
 * Environment: Resources, Properties & Profiles
 * Outro
-* [Source Code & Exercises](https://github.com/halilkosee/The-Confident-Spring-Professional/tree/main/01%20Java%20Webapps%20without%20Spring/mybank)
+* [Source Code & Exercises](https://github.com/halilkosee/The-Confident-Spring-Professional/tree/main/02%20Spring%20IoC%20Basics/myfancypdfinvoices)
 * Interview: Michael Simons
 ## 03 Spring WebMVC: Rest Services
 ## 04 Spring WebMVC: HTML Pages
