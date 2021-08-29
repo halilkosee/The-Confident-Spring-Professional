@@ -1,12 +1,18 @@
 package com.halilkose.myfancypdfinvoices.web;
-import com.halilkose.myfancypdfinvoices.dto.InvoiceDto;
+
 import com.halilkose.myfancypdfinvoices.model.Invoice;
 import com.halilkose.myfancypdfinvoices.service.InvoiceService;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
+
+import javax.validation.constraints.Max;
+import javax.validation.constraints.Min;
+import javax.validation.constraints.NotBlank;
 import java.util.List;
 
 @RestController
+@Validated
 public class MyFancyPdfInvoicesController {
 
     private final InvoiceService invoiceService;
@@ -22,7 +28,8 @@ public class MyFancyPdfInvoicesController {
     }
 
     @PostMapping("/invoices")
-    public Invoice createInvoice(@RequestBody InvoiceDto invoiceDto){
-        return invoiceService.create(invoiceDto.getUserId(), invoiceDto.getAmount());
+    public Invoice createInvoice(@RequestParam("user_id") @NotBlank String userId,
+                                 @RequestParam @Min(10) @Max(50) Integer amount) {
+        return invoiceService.create(userId, amount);
     }
 }
