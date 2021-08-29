@@ -13,11 +13,11 @@ import java.util.List;
 
 @RestController
 @Validated
-public class MyFancyPdfInvoicesController {
+public class InvoicesController {
 
     private final InvoiceService invoiceService;
 
-    public MyFancyPdfInvoicesController(InvoiceService invoiceService){
+    public InvoicesController(InvoiceService invoiceService){
         this.invoiceService = invoiceService;
     }
 
