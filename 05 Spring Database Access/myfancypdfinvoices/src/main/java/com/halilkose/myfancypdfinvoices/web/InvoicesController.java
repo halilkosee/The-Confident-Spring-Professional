@@ -2,14 +2,15 @@ package com.halilkose.myfancypdfinvoices.web;
 
 import com.halilkose.myfancypdfinvoices.model.Invoice;
 import com.halilkose.myfancypdfinvoices.service.InvoiceService;
-import jakarta.validation.constraints.Max;
-import jakarta.validation.constraints.Min;
-import jakarta.validation.constraints.NotBlank;
+
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.validation.constraints.Max;
+import javax.validation.constraints.Min;
+import javax.validation.constraints.NotBlank;
 
 
 @RestController
