@@ -39,7 +39,30 @@
 * [Source Code & Exercises](https://github.com/halilkosee/The-Confident-Spring-Professional/tree/main/02%20Spring%20IoC%20Basics/myfancypdfinvoices)
 * Interview: Michael Simons
 ## 03 Spring WebMVC: Rest Services
+* Intro
+* Maven Dependencies
+* Hello World
+* JSON @RestControllers
+* Returning XML and JSON
+* Validating User Input
+* Handling Exceptions
+* Cleanup & Refactoring
+* Outro
+* Source Code & Exercises
+* Interview: Maciej Walkowiak
+
 ## 04 Spring WebMVC: HTML Pages
+* Intro
+* HTML & Templating Libraries
+* Thymeleaf Maven Dependencies
+* Thymeleaf Spring Beans
+* Minimal Thymeleaf Template
+* Thymeleaf Templates & Models
+* Form Submissions
+* Outro
+* Source Code & Exercises
+* Interview: Simon Martinelli
+
 ## 05 Spring Database Access
 ## 06 Spring Boot Basics
 ## 07 Spring Boot: Internals
