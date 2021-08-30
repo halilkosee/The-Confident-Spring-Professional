@@ -51,7 +51,7 @@
 * Source Code & Exercises
 * Interview: Maciej Walkowiak
 
-## 04 Spring WebMVC: HTML Pages
+## 04 [Spring WebMVC: HTML Pages](https://github.com/halilkosee/The-Confident-Spring-Professional/tree/main/04%20Spring%20WebMVC%20HTML%20Pages/myfancypdfinvoices)
 * Intro
 * HTML & Templating Libraries
 * Thymeleaf Maven Dependencies
