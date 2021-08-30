@@ -38,7 +38,7 @@
 * Outro
 * [Source Code & Exercises](https://github.com/halilkosee/The-Confident-Spring-Professional/tree/main/02%20Spring%20IoC%20Basics/myfancypdfinvoices)
 * Interview: Michael Simons
-## 03 Spring WebMVC: Rest Services
+## 03 [Spring WebMVC: Rest Services](https://github.com/halilkosee/The-Confident-Spring-Professional/tree/main/03%20Spring%20WebMVC%20Rest%20Services/myfancypdfinvoices)
 * Intro
 * Maven Dependencies
 * Hello World
