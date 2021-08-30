@@ -7,6 +7,7 @@ import javax.annotation.PostConstruct;
 
 @Service
 @Profile("dev")
+
 public class DummyInvoiceServiceLoader {
 
     private final InvoiceService invoiceService;
@@ -18,7 +19,8 @@ public class DummyInvoiceServiceLoader {
     @PostConstruct
     public void setup() {
         System.out.println("Creating dev invoices...");
-        invoiceService.create("someUserId", 50);
-        invoiceService.create("someOtherUserId", 100);
+        invoiceService.create( "som", 10000);
+        invoiceService.create("so", 6);
+        System.out.println("-----");
     }
 }

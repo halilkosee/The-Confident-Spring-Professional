@@ -3,30 +3,34 @@ package com.halilkose.myfancypdfinvoices.context;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.halilkose.myfancypdfinvoices.ApplicationLauncher;
 import org.h2.jdbcx.JdbcDataSource;
-import org.springframework.context.annotation.*;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.validation.beanvalidation.MethodValidationPostProcessor;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.thymeleaf.spring5.SpringTemplateEngine;
 import org.thymeleaf.spring5.templateresolver.SpringResourceTemplateResolver;
 import org.thymeleaf.spring5.view.ThymeleafViewResolver;
-import org.thymeleaf.templateresolver.ITemplateResolver;
 
 import javax.sql.DataSource;
 
 @Configuration
 @ComponentScan(basePackageClasses = ApplicationLauncher.class)
 @PropertySource("classpath:/application.properties")
-@PropertySource(value = "classpath:/application-${spring.profiles.active}.properties",ignoreResourceNotFound = true)
+@PropertySource(value = "classpath:/application-${spring.profiles.active}.properties"
+        , ignoreResourceNotFound = true)
 @EnableWebMvc
 public class ApplicationConfiguration {
 
     @Bean
-    public MethodValidationPostProcessor methodValidationPostProcessor(){
+    public MethodValidationPostProcessor methodValidationPostProcessor() {
         return new MethodValidationPostProcessor();
     }
 
     @Bean
-    public DataSource dataSource(){
+    public DataSource dataSource() {
         JdbcDataSource ds = new JdbcDataSource();
         ds.setURL("jdbc:h2:~/myFirstH2Database;INIT=RUNSCRIPT FROM 'classpath:schema.sql'");
         ds.setUser("sa");
@@ -35,7 +39,12 @@ public class ApplicationConfiguration {
     }
 
     @Bean
-    public ObjectMapper objectMapper(){
+    public JdbcTemplate jdbcTemplate() {
+        return new JdbcTemplate(dataSource());
+    }
+
+    @Bean
+    public ObjectMapper objectMapper() {
         return new ObjectMapper();
     }
 
@@ -57,7 +66,7 @@ public class ApplicationConfiguration {
     }
 
     @Bean
-    public ITemplateResolver templateResolver() {
+    public SpringResourceTemplateResolver templateResolver() {
         SpringResourceTemplateResolver templateResolver = new SpringResourceTemplateResolver();
         templateResolver.setPrefix("classpath:/templates/");
         templateResolver.setCacheable(false);
