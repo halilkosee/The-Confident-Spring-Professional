@@ -1,7 +1,6 @@
 package com.halilkose.myfancypdfinvoices.web;
 
 import com.halilkose.myfancypdfinvoices.web.forms.LoginForm;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
