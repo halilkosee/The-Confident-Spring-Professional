@@ -12,6 +12,10 @@ public class Invoice {
     @JsonProperty("pdf_url")
     private String pdfUrl;
 
+    public Invoice(){
+
+    }
+
     public Invoice(String userId, Integer amount, String pdfUrl) {
         this.id = UUID.randomUUID().toString();
         this.userId = userId;
